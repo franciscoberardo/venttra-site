@@ -26,7 +26,7 @@ export function Hero() {
           >
             <div className="inline-flex items-center rounded-full border border-primary/30 bg-primary/10 px-3 py-1 text-sm font-medium text-primary mb-6">
               <span className="flex h-2 w-2 rounded-full bg-primary mr-2 animate-pulse"></span>
-              Plataforma Inteligente para Distribuidores
+              Plataforma de gestión comercial con IA
             </div>
           </motion.div>
           
@@ -36,7 +36,7 @@ export function Hero() {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-5xl md:text-7xl font-bold tracking-tight text-white mb-6"
           >
-            Plataforma de gestión comercial con <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-blue-400">analítica e inteligencia artificial</span> para optimizar ventas y pedidos
+            Gestiona clientes, productos y pedidos en <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-blue-400">un solo lugar</span>
           </motion.h1>
           
           <motion.p 
@@ -45,7 +45,7 @@ export function Hero() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-lg md:text-xl text-foreground/80 mb-10 max-w-2xl mx-auto"
           >
-            Unifica tu operación, predice la demanda y potencia a tu equipo de ventas con la solución diseñada específicamente para la complejidad de la distribución moderna.
+            Centraliza tu operación comercial, analiza datos en tiempo real y optimiza decisiones con inteligencia artificial.
           </motion.p>
           
           <motion.div 
