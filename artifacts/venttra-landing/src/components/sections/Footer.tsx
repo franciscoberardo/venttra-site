@@ -1,6 +1,6 @@
 import { SiInstagram, SiFacebook, SiX, SiWhatsapp } from "react-icons/si";
 import { Linkedin } from "lucide-react";
-import venttraLogo from "@assets/image_1778333895370.png";
+import venttraLogo from "@assets/logo.png";
 
 export function Footer() {
   const scrollTo = (id: string) => {
